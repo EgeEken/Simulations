@@ -4,6 +4,8 @@ This repository is a list of links to and files from my previous projects on sim
 
 ## [Monty Hall](https://github.com/EgeEken/MontyHall)
 
+Simulates a demonstration of the Monty Hall statistics problem
+
 <details><summary>Results: (click here to open)</summary>
 <p>
 
@@ -17,6 +19,8 @@ This repository is a list of links to and files from my previous projects on sim
 
 ## [Submerge](https://github.com/EgeEken/Submerge)
 
+Simulates and visualises the satellite image of a section of land that has been submerged up to a certain height, calculates the results based on inputted topographical datamaps and satellite imagery
+
 <details><summary>Results: (click here to open)</summary>
 <p>
 
@@ -29,6 +33,8 @@ https://user-images.githubusercontent.com/96302110/165179431-fbcc2169-23e5-49f7-
 
 
 ## [Pi with Monte Carlo](https://github.com/EgeEken/Pi-with-Monte-Carlo)
+
+Estimates pi using the Monte Carlo method
 
 <details><summary>Results: (click here to open)</summary>
 <p>
