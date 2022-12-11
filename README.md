@@ -2,21 +2,6 @@
 
 This repository is a list of links to and files from my previous projects on simulations
 
-## [Monty Hall](https://github.com/EgeEken/MontyHall)
-
-Simulates a demonstration of the Monty Hall statistics problem
-
-<details><summary>Results: (click here to open)</summary>
-<p>
-
-![image](https://user-images.githubusercontent.com/96302110/165194877-3090f710-3c5d-49b0-846d-86210266eeda.png)
-
-![image](https://user-images.githubusercontent.com/96302110/165194957-282b3e03-b276-45b0-96e3-b0dea0735fe0.png)
-
-</p>
-</details>
-
-
 ## [Submerge](https://github.com/EgeEken/Submerge)
 
 Simulates and visualises the satellite image of a section of land that has been submerged up to a certain height, calculates the results based on inputted topographical datamaps and satellite imagery
@@ -40,6 +25,33 @@ Estimates pi using the Monte Carlo method
 <p>
 
 ![image](https://user-images.githubusercontent.com/96302110/182940705-1b11cf3f-9c3b-45d0-bed0-26758a16e98d.png)
+
+</p>
+</details>
+
+
+## [Flies and Flowers](https://github.com/EgeEken/Flies-and-Flowers)
+
+Simulates a few flies and different types of flowers on a flat terrain
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+https://user-images.githubusercontent.com/96302110/206923993-c7099278-fc71-454a-b1d4-3ca254800599.mp4
+
+</p>
+</details>
+
+## [Monty Hall](https://github.com/EgeEken/MontyHall)
+
+Simulates a demonstration of the Monty Hall statistics problem
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+![image](https://user-images.githubusercontent.com/96302110/165194877-3090f710-3c5d-49b0-846d-86210266eeda.png)
+
+![image](https://user-images.githubusercontent.com/96302110/165194957-282b3e03-b276-45b0-96e3-b0dea0735fe0.png)
 
 </p>
 </details>
