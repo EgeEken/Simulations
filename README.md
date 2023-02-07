@@ -32,7 +32,7 @@ Estimates pi using the Monte Carlo method
 
 ## [Flies and Flowers](https://github.com/EgeEken/Flies-and-Flowers)
 
-Simulates a few flies and different types of flowers on a flat terrain
+Simulates a few flies and different types of flowers on a flat terrain. The flies have a pathfinding algorithm to find and move towards the nearest drop of nectar, the flowers secrete nectar in a random location around themselves every day, there is a sleeping routine that some flowers and all flies follow, all of them have independent sleep schedules. Venus flytraps can eat flies that pass over them if they aren't sleeping.
 
 <details><summary>Results: (click here to open)</summary>
 <p>
