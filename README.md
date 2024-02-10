@@ -16,6 +16,19 @@ https://user-images.githubusercontent.com/96302110/165179431-fbcc2169-23e5-49f7-
 </p>
 </details>
 
+### [AI Robot Simulation](https://github.com/EgeEken/AI-PaintWars)
+An AI based solution for a simulated robotics project in my "AI and Games" class
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+![image](https://github.com/EgeEken/AI-PaintWars/assets/96302110/fbdaa911-a761-4094-9db6-3dae9070c714)
+![image](https://github.com/EgeEken/AI-PaintWars/assets/96302110/aed07beb-1284-4b6f-b516-52265517f860)
+![image](https://github.com/EgeEken/AI-PaintWars/assets/96302110/598b38da-9b22-449b-b8ce-dec0c4b35366)
+
+</p>
+</details>
+
 
 ## [Pi with Monte Carlo](https://github.com/EgeEken/Pi-with-Monte-Carlo)
 
